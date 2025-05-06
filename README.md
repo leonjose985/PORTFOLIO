@@ -24,7 +24,6 @@ This folder houses some of the tasks and my solutions from the YOUNG&YANDEX inte
 
 * **Convolutional Neural Networks (CNNs):** Explorations and implementations related to understanding the architecture and functionality of CNNs.
 * **Natural Language Processing (NLP):** Tasks aimed at grasping fundamental NLP concepts and model development.
-* **Computer Vision:** Assignments focused on understanding and implementing models for computer vision tasks.
 
 While the tasks were provided by the organizers of the YOUNG&YANDEX intensive, the solutions required for the successful training and exploration of the models within these tasks were developed by me. This section highlights my proactive learning approach and my ability to implement and troubleshoot machine learning models across different domains.
 
