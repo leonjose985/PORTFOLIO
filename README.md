@@ -4,10 +4,12 @@ This repository is organized into the following main folders:
 
 * **INTERNSHIP (JINR):** Contains the code and related materials from my scientific internship at the Joint Institute for Nuclear Research (JINR).
 * **ML (YOUNG&YANDEX):** Includes assignments and solutions from the YOUNG&YANDEX intensive program, focusing on fundamental machine learning concepts.
+* **SMILES 2025 (Summer School IA):** Includes assignments and solutions from the YOUNG&YANDEX intensive program, focusing on fundamental machine learning concepts.
 
 ---
 
 ## INTERNSHIP (JINR)
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1wrz1dZNccGu9HgX5SbCJ9XC4te29RY1A)
 
 This folder contains the work I conducted during my scientific internship at JINR. Specifically, it includes:
 
@@ -19,6 +21,7 @@ This project demonstrates my ability to apply advanced deep learning techniques,
 ---
 
 ## ML (YOUNG&YANDEX)
+![Descripción imagen 1](https://drive.google.com/uc?export=view&id=1_uDLvjVofhqkCiW4_RXOc_sdvkDF7Xlh)
 
 This folder houses some of the tasks and my solutions from the YOUNG&YANDEX intensive program. The focus of these tasks was to understand the inner workings of various machine learning models and techniques, including:
 
@@ -28,3 +31,6 @@ This folder houses some of the tasks and my solutions from the YOUNG&YANDEX inte
 While the tasks were provided by the organizers of the YOUNG&YANDEX intensive, the solutions required for the successful training and exploration of the models within these tasks were developed by me. This section highlights my proactive learning approach and my ability to implement and troubleshoot machine learning models across different domains.
 
 ---
+
+## SMILES 2025
+![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1iNLfh0bUo7__sgqWSWEu3_4KcQO0St6Y)
