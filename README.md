@@ -4,7 +4,7 @@ This repository is organized into the following main folders:
 
 * **INTERNSHIP (JINR):** Contains the code and related materials from my scientific internship at the Joint Institute for Nuclear Research (JINR).
 * **ML (YOUNG&YANDEX):** Includes assignments and solutions from the YOUNG&YANDEX intensive program, focusing on fundamental machine learning concepts.
-* **SMILES 2025 (Summer School IA):** Includes assignments and solutions from the YOUNG&YANDEX intensive program, focusing on fundamental machine learning concepts.
+* **SMILES 2025 (Summer School IA):** Contains the code, research materials, and outcomes from my participation in the Skoltech Summer School of Machine Learning.
 
 ---
 
@@ -32,5 +32,9 @@ While the tasks were provided by the organizers of the YOUNG&YANDEX intensive, t
 
 ---
 
-## SMILES 2025
+## SMILES SUMMER SCHOOL (AI & MULTI-AGENT SYSTEMS)
 ![Descripción de la imagen](https://drive.google.com/uc?export=view&id=1iNLfh0bUo7__sgqWSWEu3_4KcQO0St6Y)
+
+This folder contains my work as an online participant in SMILES-2025, a 12-day intensive program co-organized by Skoltech (Russia) and Harbin Institute of Technology (China). The school focused on generative AI, multi-agent systems, and LLM applications in real-world scenarios.
+
+**Project:** LLM Agents for Forecasting Public Perceptions of Central Banks.
